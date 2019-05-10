@@ -9,5 +9,3 @@ function curry(fn) {
   }
   return nest(fn.length, []);
 }
-
-console.log('git test')

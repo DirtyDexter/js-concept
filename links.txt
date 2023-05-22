@@ -1,0 +1,347 @@
+https://levelup.gitconnected.com/angular-16-is-making-big-noise-6a06e9808788
+
+https://medium.com/angular-gems/angular-standalone-components-590b3076d48a
+
+https://javascript.plainenglish.io/angular-signals-story-d0dd77e2152b
+
+JS blog
+https://programwithjayanth.com/?source=post_page-----9608ba2a1710--------------------------------
+
+Break forEach loop
+https://javascript.plainenglish.io/javascript-interview-can-you-stop-or-break-a-foreach-loop-9608ba2a1710
+
+ES7 new feature
+https://medium.com/coding-beauty/this-new-es6-feature-made-my-math-3-times-easier-f14d17906de6
+
+Invoke function without parenthesis
+https://rahuulmiishra.medium.com/javascript-interview-question-invoke-a-function-without-parenthesis-17a5dc1d20e7
+
+Lodash to ES
+https://javascript.plainenglish.io/you-dont-need-lodash-how-i-gave-up-lodash-693c8b96a07c
+
+JSON.stringify()
+https://rahuulmiishra.medium.com/beyond-basics-unlocking-5-lesser-known-powers-of-json-stringify-5368425d1d46
+
+as const
+https://stackoverflow.com/questions/66993264/what-does-the-as-const-mean-in-typescript-and-what-is-its-use-case
+
+SERVICE worker
+https://web.dev/articles/service-worker-lifecycle
+
+
+try...catch in async
+https://blog.stackademic.com/because-of-a-question-about-try-catch-i-failed-my-interview-2cea0225820c
+
+JS Engine
+https://javascript.plainenglish.io/from-good-to-great-why-true-engineers-understand-javascript-inside-out-8df28ac29bf2
+
+Memory leak
+https://blog.stackademic.com/your-js-app-is-leaking-memory-and-you-dont-know-914e64ed07c7
+
+Squash Object
+https://medium.com/@stheodorejohn/squashing-javascript-objects-code-elegance-unleashed-55709508438a
+
+One liner
+https://medium.com/@sharadokey/25-javascript-one-liner-that-will-help-you-code-like-a-pro-267843d66d67
+
+Var hoist
+https://blog.stackademic.com/hoisting-is-not-moving-the-declaration-to-the-top-of-the-function-60bc8c2a872f
+
+Function override
+https://javascript.plainenglish.io/overriding-functions-in-javascript-with-a-real-world-example-63d4c4e538d2
+
+Array
+https://rahuulmiishra.medium.com/why-does-the-map-method-not-work-on-arrays-created-via-new-array-count-5ec44595a71f
+
+Enum in TS - Do not use Enum
+https://imgeorgemor.medium.com/why-i-dont-use-enum-in-typescript-and-neither-should-you-88f12fb7e2bd
+
+Generators in JS
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator
+
+Object in JS
+https://frontendinterviewquestions.medium.com/what-is-object-in-javascript-9409d13354e8
+
+Pure menifesto
+https://medium.com/cto-as-a-service/the-pure-manifesto-for-web-standards-based-design-systems-d46f400853eb
+
+valueOf/toString
+https://blog.stackademic.com/javascripts-quirky-comparison-can-a-1-a-2-a-3-be-true-a048610297a0
+
+Dialog tag
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog
+
+Web workers
+https://blog.stackademic.com/javascript-web-workers-lightning-fast-performance-unleashed-2163f05dcf34
+
+Closure, Interview Question
+https://rahuulmiishra.medium.com/interviewer-senior-developer-lets-see-how-you-handle-this-code-challenge-496d6de9358a
+
+
+UTF-8
+https://medium.com/@dmosyan/utf-8-and-the-problem-that-it-solves-a294aed2aa20
+
+===================================================================================================================================================
+
+
+https://javascript.plainenglish.io/unraveling-the-solid-acronym-5-key-principles-for-efficient-programming-553ca5611482
+
+https://developer.mozilla.org/en-US/docs/Web/API/queueMicrotask
+
+https://www.freecodecamp.org/news/how-to-implement-promises-in-javascript-1ce2680a7f51/
+
+https://itnext.io/7-bad-code-smells-in-typescript-e1cb397723c6
+
+
+
+https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
+
+
+https://javascript.plainenglish.io/how-i-failed-an-angular-developer-interview-by-failing-to-answer-this-simple-question-f5a25847ec8b
+
+
+https://javascript.plainenglish.io/advanced-angular-interview-questions-you-must-prepare-for-in-2022-f79545eaa46d
+
+
+https://medium.com/codex/trpc-vs-rest-graphql-which-is-the-true-best-for-single-service-api-bee05ed7ee11
+
+
+https://javascript.plainenglish.io/angular-how-to-make-a-loading-spinner-work-to-solve-the-issue-with-parallel-http-requests-cc55a3e25711
+
+
+https://medium.com/@aayyash/displaying-cacheable-content-with-a-partial-component-in-angular-52e71ec02173
+
+
+https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a
+
+https://sergeygultyayev.medium.com/new-reactivity-in-angular-is-it-time-to-say-farewell-to-rxjs-5331e0ccb150
+
+
+
+https://medium.com/@VenuThomas/generate-ngrx-code-online-dec1c340b171
+
+
+https://blog.devgenius.io/building-a-dynamic-form-in-angular-a-step-by-step-guide-with-code-4db195fcafcb
+
+
+https://wisecodes.venuthomas.net/Online/generate_ngrx_online/
+
+
+https://javascript.plainenglish.io/10-modern-css-layouts-with-one-line-a059846c2140
+
+
+https://medium.com/@bhargavr445/routing-in-angular-stand-alone-apps-2682b4de756e
+
+https://fatfish.medium.com/interviewer-can-a-1-a-2-a-3-ever-evaluate-to-true-in-javascript-565fc064d676
+
+https://netbasal.com/handling-oneof-cases-in-angular-forms-36ae8c903af5
+
+https://uxdesign.cc/disabling-text-boxes-why-its-a-bad-idea-and-what-to-do-instead-48fa50f7c433
+
+https://lilbeqiri.medium.com/should-you-pair-signals-onpush-bc3cf3193a88
+
+https://javascript.plainenglish.io/angular-journey-with-onpush-change-detection-part-ii-98b2eabef1e
+
+https://huantao.medium.com/angular-change-detection-onpush-with-examples-5187f8b2d6e6
+
+
+https://balramchavan.medium.com/angular-interview-questions-for-senior-staff-architect-developer-position-part-1-2023-f7f725537049
+
+https://balramchavan.medium.com/angular-interview-questions-for-senior-staff-architect-developer-position-part-2-2023-3ccd4368a64
+
+https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8
+
+
+https://umairzaffar.medium.com/simplifying-routing-in-angular-with-ngrx-abdd78a52e6a
+
+https://levelup.gitconnected.com/feature-flags-in-angular-16-472254256b0c
+
+https://maddydeep28.medium.com/angular-signals-new-change-detection-strategy-44f7ee9c359a
+
+
+
+=======================================================================================================================
+
+Angular 
+
+
+https://blog.thoughtram.io/angular/2016/07/27/custom-form-controls-in-angular-2.html
+
+
+https://javascript.plainenglish.io/how-i-failed-an-angular-developer-interview-by-failing-to-answer-this-simple-question-f5a25847ec8b
+
+
+https://javascript.plainenglish.io/advanced-angular-interview-questions-you-must-prepare-for-in-2022-f79545eaa46d
+
+
+https://medium.com/codex/trpc-vs-rest-graphql-which-is-the-true-best-for-single-service-api-bee05ed7ee11
+
+
+https://javascript.plainenglish.io/angular-how-to-make-a-loading-spinner-work-to-solve-the-issue-with-parallel-http-requests-cc55a3e25711
+
+
+https://medium.com/@aayyash/displaying-cacheable-content-with-a-partial-component-in-angular-52e71ec02173
+
+
+https://nickfthilton.medium.com/the-end-of-the-subscription-era-is-coming-ed197f252c6a
+
+https://sergeygultyayev.medium.com/new-reactivity-in-angular-is-it-time-to-say-farewell-to-rxjs-5331e0ccb150
+
+
+
+https://medium.com/@VenuThomas/generate-ngrx-code-online-dec1c340b171
+
+
+https://blog.devgenius.io/building-a-dynamic-form-in-angular-a-step-by-step-guide-with-code-4db195fcafcb
+
+
+https://wisecodes.venuthomas.net/Online/generate_ngrx_online/
+
+
+https://javascript.plainenglish.io/10-modern-css-layouts-with-one-line-a059846c2140
+
+
+https://medium.com/@bhargavr445/routing-in-angular-stand-alone-apps-2682b4de756e
+
+https://fatfish.medium.com/interviewer-can-a-1-a-2-a-3-ever-evaluate-to-true-in-javascript-565fc064d676
+
+https://netbasal.com/handling-oneof-cases-in-angular-forms-36ae8c903af5
+
+https://uxdesign.cc/disabling-text-boxes-why-its-a-bad-idea-and-what-to-do-instead-48fa50f7c433
+
+https://lilbeqiri.medium.com/should-you-pair-signals-onpush-bc3cf3193a88
+
+https://javascript.plainenglish.io/angular-journey-with-onpush-change-detection-part-ii-98b2eabef1e
+
+https://huantao.medium.com/angular-change-detection-onpush-with-examples-5187f8b2d6e6
+
+
+https://balramchavan.medium.com/angular-interview-questions-for-senior-staff-architect-developer-position-part-1-2023-f7f725537049
+
+https://balramchavan.medium.com/angular-interview-questions-for-senior-staff-architect-developer-position-part-2-2023-3ccd4368a64
+
+https://javascript.plainenglish.io/i-bet-you-dont-use-these-javascript-tricks-and-pratices-5ab5438ed4c8
+
+
+https://umairzaffar.medium.com/simplifying-routing-in-angular-with-ngrx-abdd78a52e6a
+
+https://levelup.gitconnected.com/feature-flags-in-angular-16-472254256b0c
+
+https://maddydeep28.medium.com/angular-signals-new-change-detection-strategy-44f7ee9c359a
+
+https://medium.com/@boluwatifee4/what-are-angular-signals-exploring-state-control-and-rendering-in-angular-apps-e09b630558ec
+
+
+Change detection - Zone.js
+https://itnext.io/a-change-detection-zone-js-zoneless-local-change-detection-and-signals-story-9344079c3b9d
+
+
+My Async pipe - https://itnext.io/async-pipe-is-not-pure-948f7b24e2d1
+Create async pipe - https://stackblitz.com/edit/angular-ivy-prasrm?file=src%2Fapp%2Fapp.component.ts
+Angular async pipe - https://github.com/angular/angular/blob/main/packages/common/src/pipes/async_pipe.ts
+
+Service worker - https://levelup.gitconnected.com/service-workers-in-angular-an-introduction-part-1-d95904ab33a0
+
+Swagger in Angular - https://blog.stackademic.com/how-to-embed-swagger-ui-into-angular-50e89f911447
+
+Pagination in Angular - Have to read yet
+https://medium.com/@fake.dev00/implementation-of-pagination-in-angular-16-3-4-7e8408d71521
+
+
+Export Angular component as Web Component
+https://blog.stackademic.com/angular-exporting-a-component-complete-application-to-a-webcomponent-and-importing-it-another-3dd43a098f96
+
+Feature flag
+https://medium.com/@iamjustin/feature-flags-in-angular-d50a2b8437fe
+
+Zoneless change detection - did not understand fully
+https://netbasal.com/navigating-the-new-era-of-angular-zoneless-change-detection-unveiled-e7404de69b89
+
+Styling components
+https://blog.stackademic.com/creating-and-styling-components-in-angular-correctly-52c93b062759
+
+Attribute
+https://netbasal.com/streamlining-attribute-injection-in-angular-the-hostattributetoken-approach-494f5c1428b8
+
+Provided
+https://frontendinterviewquestions.medium.com/injectable-providedin-root-8f5eb523bf97
+
+Code smells
+https://levelup.gitconnected.com/code-smells-in-angular-deep-dive-part-iii-8630c0029d76
+
+
+Angular faster
+https://medium.com/@stanislavbabenko/all-the-hacks-that-make-angular-run-faster-i-learned-the-hard-way-6291cb7cd4a0
+
+===========================================================================================================================
+
+Front end - https://www.frontendinterviewquestions.com/interview-questions
+
+Resources for Angular 
+https://itnext.io/the-best-of-angular-a-collection-of-my-favorite-resources-of-2023-28c179bb9088
+
+Lazy load service
+https://itnext.io/lazy-loading-services-in-angular-what-yes-we-can-cfbaf586d54e
+
+Caching by service worker
+https://maxtsh.medium.com/caching-strategies-for-front-end-developers-using-a-service-worker-6264d249f080
+
+Angular based interview
+https://medium.com/@snehalv.2010/angular-scenario-based-interview-51a130df4624
+
+Non-nullable field
+https://nhannguyendevjs.medium.com/angular-tips-use-nonnullable-true-to-restore-default-values-on-reset-e940efc831fb
+
+Strategy pattern
+https://vugar-005.medium.com/angular-design-patterns-strategy-pattern-ace359ae77b3
+
+Factory pattern
+https://vugar-005.medium.com/angular-design-patterns-factory-pattern-f72fcbfb60b8
+
+@model and signal
+https://blog.stackademic.com/stop-using-input-output-in-angular-93d4170a1083
+
+Promise, Observable and Subject
+https://blog.stackademic.com/unlocking-angulars-asynchronous-power-a-deep-dive-into-promises-vs-observables-vs-subjects-a37463b82d8a
+
+Subject vs Behavior Subject
+https://javascript.plainenglish.io/subjects-and-behaviorsubjects-in-angular-a-deep-dive-cf0270f32ce8
+
+Input in DI
+https://itnext.io/providing-inputs-in-di-1d75a3ca8e9d
+
+Fork join
+https://frontendinterviewquestions.medium.com/how-to-call-multiple-api-in-angular-6956c148ac04
+
+CSP Violation
+https://blog.stackademic.com/angular-ways-we-can-report-content-security-policy-violations-e5f36d971904
+
+ES-Lint
+https://medium.com/javascript-everyday/5-eslint-rules-to-enforce-modern-angular-features-c3f6e66d7c9e
+
+SOLID in Angular
+https://javascript.plainenglish.io/understanding-solid-principles-with-angular-e076f1d9fc9b
+
+Micro frontend in Angular
+https://blog.stackademic.com/micro-frontends-angular-cb0ce751dbdd
+
+
+==================================================================================================================================================================
+Need to read again
+
+
+Defer block
+https://itnext.io/migrating-from-custom-lazy-loading-components-to-defer-block-153e1b91ad95
+
+Zoneless angular
+https://medium.com/@eugeniyoz/preparing-our-code-for-zoneless-angular-22cb7a738151
+
+State management
+https://itnext.io/angular-state-management-styles-ive-seen-6745c76641db
+
+
+Image loading
+https://medium.com/ngconf/automatic-adjustments-in-angulars-optimized-images-0034335e0374
+
+Angular 18
+https://medium.com/@amosisaila/whats-new-in-angular-18-f38b8781f032
